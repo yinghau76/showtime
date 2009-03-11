@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/preferences_player_category">
+        <CheckBoxPreference
+                android:defaultValue="true"
+                android:title="@string/preferences_auto_rotate" android:summary="@string/preferences_auto_rotate_summary" android:key="showtime.auto_rotate"/>
+
+        
+
+        
+    <CheckBoxPreference android:title="@string/preferences_show_debug_info" android:summary="@string/preferences_show_debug_info_summary" android:key="showtime.show_debug_info"></CheckBoxPreference>
+</PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Showtime</string>
+<string name="preferences_auto_rotate">Automatically Rotate</string>
+<string name="preferences_auto_rotate_summary">Detect rotation of device to play in landscape or portrait mode</string>
+<string name="preferences_player_category">Player</string>
+<string name="activity_media_list">Showtime</string>
+<string name="activity_player_panel">Showtime - Player Panel</string>
+<string name="activity_settings">Showtime - Settings</string>
+<string name="menu_item_preferences">Preferences</string>
+<string name="preferences_show_debug_info">Show Debug Info</string>
+<string name="preferences_show_debug_info_summary">Display debug information while video is playing</string>
+<string name="msg_loading_video">Loading video</string>
+<string name="media_on_error">Media error happened.</string>
+<string name="about_title">About</string>
+<string name="about_message">Showtime 1.0 by Patrick Tsai</string>
+<string name="no_videos">No videos</string>
+</resources>
